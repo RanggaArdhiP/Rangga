@@ -1,0 +1,22 @@
+html{
+    margin: 0;
+}
+.navbar{
+    color: brown;
+    border-bottom: 3px solid rgb(97, 28, 28);
+}
+
+.container{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvideos%2Fhospital-hallway-background&psig=AOvVaw3nyFUky4QIeV6oHieGTI_W&ust=1701973122740000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCw9fW2-4IDFQAAAAAdAAAAABAE);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.teks-bawah{
+    margin-top: 24vh;
+    margin-left: 90vh;
+    justify-content: center;
+    align-items: center;
+
+    
+}
